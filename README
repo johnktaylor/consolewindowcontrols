@@ -1,0 +1,7 @@
+A simple progress bar control that was used to display progress in a
+bash console window.
+
+The main class is the ConsoleProgressBar class with a demo Application
+object that exercises the class and displays a test progress bar.
+
+(Hardly worth uploading...but I'm mainly testing out github) :)
